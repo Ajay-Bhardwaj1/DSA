@@ -7,7 +7,6 @@ public class ReverseInGroup {
         int n=arr.length;
         int k=4;
        ReverseInGroup1(arr , n , k );
-  //      System.out.println(a);
 
 
 
@@ -27,7 +26,5 @@ public class ReverseInGroup {
             }
         }
         System.out.println(Arrays.toString(arr));
-
-
     }
 }
